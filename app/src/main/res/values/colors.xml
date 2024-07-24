@@ -1,0 +1,7 @@
+<resources>
+    <color name="nav_background">#002B5B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="light_blue">#919DDF</color>
+    <color name="deep_blue">#050EAD</color>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">My School 2</string>
+    <string name="my_school2">My School 2</string>
+
+    <!-- Navigation drawer strings -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation menu item titles -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_class_test">Class Test</string>
+    <string name="nav_assignment">Assignment</string>
+    <string name="nav_communication">Communication</string>
+    <string name="nav_exams">Exams</string>
+    <string name="nav_time_table">Time Table</string>
+    <string name="nav_live_classes">Live Classes</string>
+    <string name="nav_notification">Notification</string>
+    <string name="nav_sign_out">Sign Out</string>
+
+    <!-- Other strings -->
+    <string name="teacher_name">Teacher name</string>
+    <string name="teacher_role">Social Studies teacher</string>
+</resources>

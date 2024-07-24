@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/dashboard"
+            android:iconTint="@color/white"
+            android:title="@string/nav_dashboard"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/attendence"
+            android:iconTint="@color/white"
+            android:title="@string/nav_attendance"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_class_test"
+            android:icon="@drawable/tests"
+            android:iconTint="@color/white"
+            android:title="@string/nav_class_test"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_assignment"
+            android:icon="@drawable/assign"
+            android:iconTint="@color/white"
+            android:title="@string/nav_assignment"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_communication"
+            android:icon="@drawable/comm"
+            android:iconTint="@color/white"
+            android:title="@string/nav_communication"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_exams"
+            android:icon="@drawable/exams"
+            android:iconTint="@color/white"
+            android:title="@string/nav_exams"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_time_table"
+            android:icon="@drawable/timetable"
+            android:iconTint="@color/white"
+            android:title="@string/nav_time_table"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_live_classes"
+            android:icon="@drawable/liveclasses"
+            android:iconTint="@color/white"
+            android:title="@string/nav_live_classes"
+            android:titleTextColor="@color/white" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/notificat"
+            android:iconTint="@color/white"
+            android:title="@string/nav_notification"
+            android:titleTextColor="@color/white" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/signout"
+            android:iconTint="@color/white"
+            android:title="@string/nav_sign_out"
+            android:titleTextColor="@color/white" />
+    </group>
+</menu>
